@@ -1,2 +1,0 @@
-# .github
-Galaxaris Game studio.
