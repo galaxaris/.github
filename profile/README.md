@@ -6,3 +6,5 @@ Galaxaris is game studio composed of five wonderful developers! 💫
 - [GauGoth Corp.](https://github.com/GauGoth-Corp)
 - [Guimauve](https://github.com/Guimauve39631)
 - [RaphixScrap](https://github.com/raphixscrap)
+
+_Copyright © 2026 Galaxaris - All Rights reserved_
