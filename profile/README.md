@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/galaxaris/.share/blob/main/splash%20without%20background.png?raw=true" alt="Galaxaris Logo" width="800">
+  <img src="https://github.com/galaxaris/.share/blob/main/splash_newgen.png?raw=true" alt="Galaxaris Logo" width="800">
 
   # 💫 Galaxaris
 
