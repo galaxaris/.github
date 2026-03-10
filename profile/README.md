@@ -36,6 +36,8 @@ Meet the brains behind the galaxy:
 
 > **Status:** 🛸 In Active Development
 
+> **Project Omicronde's Tree:** Here you can get an overview of how the project is actually structured: [PROJECT_TREE.md](PROJECT_TREE.md)
+
 ---
 
 <div align="center">
