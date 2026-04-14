@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/galaxaris/.share/blob/main/splash_newgen.png?raw=true" alt="Galaxaris Logo" width="800">
+  <img src="logo-Galaxaris.png" alt="Galaxaris Logo" width="800">
 
   # 💫 Galaxaris
 
@@ -16,9 +16,11 @@
 ---
 
 ## 🚀 About Us
-Galaxaris is a game studio composed of **five wonderful developers** dedicated to pushing the boundaries of indie gaming. 
+Galaxaris is a game studio composed of **five wonderful developers** dedicated to pushing the boundaries of indie gaming. Created for a first year project at **Efrei Engineering School** (Paris), we pushed the boundaries of our creativity and technical skills to create a unique gaming experience. We learnt a lot of things during these two months of development: how to work as a team, manage a project, create a complete game engine, and of course how to create a video game!
 
-We are currently deep in development on our latest project—a title built from the ground up using the **PyGame** framework. We're blending retro aesthetics with modern mechanics to create something truly unique.
+* ### **[Omicronde API](https://github.com/galaxaris/api)**: A very powerful, complete and easy-to-use Python library for game development
+* ### **[Omicronde Editor](https://github.com/galaxaris/editor)**: A user-friendly editor for creating and managing game assets and levels (_still in development_).
+* ### **[Robot Recovery](https://github.com/galaxaris/game)**: A fun and educational platformer game about our future and the importance of taking care of our planet.
 
 ## 🛠 The Squad
 Meet the brains behind the galaxy:
@@ -31,12 +33,15 @@ Meet the brains behind the galaxy:
 
 ---
 
-## 🎮 Current Project: [Project Omicronde]
+## 🎮 Current Project: [Robot Recovery]
 *Pygame Platformer.*
 
-> **Status:** 🛸 In Active Development
+> **Status:** 🛸 Finished - maybe we will implement other updates in a near future!
 
 > **Project Omicronde's Tree:** Here you can get an overview of how the project is actually structured: [PROJECT_TREE.md](PROJECT_TREE.md)
+
+<div align="center">
+<img src="Logo-Robot-recovery.png" alt="Robot Recovery Screenshot" width="100"/></div>
 
 ---
 
