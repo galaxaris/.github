@@ -20,7 +20,7 @@ Galaxaris is a game studio composed of **five wonderful developers** dedicated t
 
 * ### **[Omicronde API](https://github.com/galaxaris/api)**: A very powerful, complete and easy-to-use Python library for game development
 * ### **[Omicronde Editor](https://github.com/galaxaris/editor)**: A user-friendly editor for creating and managing game assets and levels (_still in development_).
-* ### **[Robot Recovery](https://github.com/galaxaris/game)**: A fun and educational platformer game about our future and the importance of taking care of our planet.
+* ### **[Robot Recovery](https://github.com/galaxaris/robot-recovery)**: A fun and educational platformer game about our future and the importance of taking care of our planet.
 
 ## 🛠 The Squad
 Meet the brains behind the galaxy:
