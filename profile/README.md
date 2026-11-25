@@ -31,6 +31,7 @@ Rencontrez les cerveaux derrière la galaxie :
 * **[Lazare GOUTTEBROZE](https://github.com/Guimauve39631)**
 * **[Raphaël PICOT](https://github.com/raphixscrap)**
 * **[Axel GIRARD](https://github.com/Axelotl-30)**
+* **[Bastian Gbéblewo--Mutel](https://github.com/Mango000000000)**
 
 ---
 
