@@ -2,7 +2,7 @@
 
   <img src="logo-Galaxaris.png" alt="Galaxaris Logo" width="800">
 
-  # 💫 Galaxaris
+  # [💫 Galaxaris](https://galaxaris.fr)
 
   **Promouvoir le développement. Explorer de nouvelles technos.**
 
@@ -22,6 +22,7 @@ Galaxaris est une association de loi 1901 composée de passionnés, dédiée à 
 * ### **[Omicronde API](https://github.com/galaxaris/api)**: Une librairie Python puissante, complète et simple d'utilisation pour créer des jeux et des applications interactives.
 * ### **[Omicronde Editor](https://github.com/galaxaris/editor)**: Un éditeur convivial pour créer et gérer les ressources et niveaux d'un jeu (_encore en développement_).
 * ### **[Robot Recovery](https://github.com/galaxaris/robot-recovery)**: Un jeu de plateforme éducatif et amusant, parlant de notre futur et de l'importance de prendre soin de notre planète.
+* ### **[RuraLien](https://github.com/galaxaris/ruralien)**: Une application de communication hors-réseau pour les zones rurales, utilisant un boîtier LoRa (ESP32) pour créer un réseau local maillé.
 
 ## 🛠 The Squad
 Rencontrez les cerveaux derrière la galaxie :
@@ -58,8 +59,8 @@ Couplé au Module RuraLien, utilisant un boîtier LoRa (ESP32), il permet de cr�
     <img src="https://img.shields.io/badge/LoRa-ff6600?style=for-the-badge&logo=lora&logoColor=white" alt="LoRa">
 </p>
 
-<div align="center">
-<img src="ruralien-logo.svg" alt="Logo RuraLien" width="100"/></div>
+<div align="center"><a target="_blank" href="https://ruralien.galaxaris.fr">
+<img src="ruralien-logo.svg" alt="Logo RuraLien" width="100"/></div></a>
 
 ## 🎮 Autre projet: [Robot Recovery]
 *Jeu de plateforme Pygame*
@@ -68,8 +69,8 @@ Couplé au Module RuraLien, utilisant un boîtier LoRa (ESP32), il permet de cr�
 
 > **Arbre du Projet Omicronde** Vous pouvez visualiser la structure du projet ici : [PROJECT_TREE.md](PROJECT_TREE.md)
 
-<div align="center">
-<img src="Logo-Robot-recovery.png" alt="Robot Recovery Screenshot" width="100"/></div>
+<div align="center"><a target="_blank" href="https://github.com/galaxaris/robot-recovery">
+<img src="Logo-Robot-recovery.png" alt="Robot Recovery Screenshot" width="100" title="Robot Recovery"/></div></a>
 
 ---
 
