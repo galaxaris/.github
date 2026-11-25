@@ -57,6 +57,9 @@ Couplé au Module RuraLien, utilisant un boîtier LoRa (ESP32), il permet de cr�
     <img src="https://img.shields.io/badge/LoRa-ff6600?style=for-the-badge&logo=lora&logoColor=white" alt="LoRa">
 </p>
 
+<div align="center">
+<img src="ruralien-logo.svg" alt="Logo RuraLien" width="100"/></div>
+
 ## 🎮 Autre projet: [Robot Recovery]
 *Jeu de plateforme Pygame*
 
