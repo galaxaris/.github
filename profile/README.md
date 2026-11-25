@@ -1,8 +1,10 @@
 <div align="center">
 
-  <img src="logo-Galaxaris.png" alt="Galaxaris Logo" width="800">
+  <a href="https://galaxaris.fr" target="_blank">
+    <img src="logo-Galaxaris.png" alt="Galaxaris Logo" width="800">
+  </a>
 
-  # [💫 Galaxaris](https://galaxaris.fr)
+  # 💫 Galaxaris
 
   **Promouvoir le développement. Explorer de nouvelles technos.**
 
